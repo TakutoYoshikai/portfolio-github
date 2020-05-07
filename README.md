@@ -66,6 +66,46 @@ My password manager on bash
 
 https://github.com/TakutoYoshikai/pw-manager
 
+## shorten-url
+A simple shorten url program
 
+https://github.com/TakutoYoshikai/shorten-url
 
+## mer**ri crawler
+A scraping bot on mer**ri
 
+(Private)
+
+## viking-challenge
+A RMT system simulation on kings' viking(comic)
+
+https://github.com/TakutoYoshikai/viking-challenge
+
+## portfolio(1, 2, 3)
+My portfolio site
+
+https://github.com/TakutoYoshikai/portfolio
+
+https://github.com/TakutoYoshikai/portfolio-2
+
+https://github.com/TakutoYoshikai/portfolio-3
+
+## alife
+male and female simulation
+
+https://github.com/TakutoYoshikai/alife
+
+## work of child
+My work when I was a junior high school student.
+
+https://github.com/TakutoYoshikai/work-of-child
+
+## mayoi
+A program to convert sentence to wrong
+
+https://github.com/TakutoYoshikai/mayoi
+
+## coa-bot
+A discord bot of code academy high school
+
+https://github.com/TakutoYoshikai/coa-bot
