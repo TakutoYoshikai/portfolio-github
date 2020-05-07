@@ -97,6 +97,12 @@ https://github.com/TakutoYoshikai/portfolio-2
 
 https://github.com/TakutoYoshikai/portfolio-3
 
+## command-predict
+A program to predict next command on bash
+
+https://github.com/TakutoYoshikai/command-predict
+
+
 ## alife
 male and female simulation
 
