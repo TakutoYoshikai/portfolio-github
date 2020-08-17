@@ -16,6 +16,11 @@ Original API Endpoint Sales Kit with bitcoin and ethereum
 
 https://github.com/TakutoYoshikai/oreki
 
+## nats
+A program to hide file into executable binary
+
+https://github.com/TakutoYoshikai/nats-io
+
 ## mybin
 Takuto's bin directory
 
