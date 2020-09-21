@@ -19,7 +19,7 @@ https://github.com/TakutoYoshikai/oreki
 ## nats
 A program to hide file into executable binary
 
-https://github.com/TakutoYoshikai/nats-io
+https://github.com/TakutoYoshikai/nats
 
 ## mybin
 Takuto's bin directory
