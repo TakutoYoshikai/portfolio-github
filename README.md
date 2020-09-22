@@ -21,6 +21,11 @@ A program to hide file into executable binary
 
 https://github.com/TakutoYoshikai/nats
 
+## portfolio-template
+A design template of Takuto Yoshikai's portfolio.
+
+https://github.com/TakutoYoshikai/portfolio-template
+
 ## mybin
 Takuto's bin directory
 
