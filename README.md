@@ -14,7 +14,7 @@ https://github.com/TakutoYoshikai/tsystem-core
 ## COWAKÉ
 COWAKÉ is an application that generates the number of rooms, the number of people assigned, and the combination table so that members will never meet with the same person again, when you divide the participants into several rooms (groups) and have several breakout sessions.
 
-https://yoshikai.net/cowake/en
+https://github.com/TakutoYoshikai/cowake-readme
 
 ## lina
 lina is a steganography program. It can hide a binary file or a text file into multiple png images. 
