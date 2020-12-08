@@ -2,7 +2,7 @@
 
 This is Takuto Yoshikai's portfolio of github only.
 
-My official portfolio website is here↓
+My official portfolio website is this↓
 
 https://yoshikai.net
 
