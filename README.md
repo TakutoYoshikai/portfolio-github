@@ -9,7 +9,32 @@ https://yoshikai.net
 ## tsystem
 A backup and setup tool on Linux
 
-https://github.com/TakutoYoshikai/tsystem
+https://github.com/TakutoYoshikai/tsystem-core
+
+## COWAKÉ
+COWAKÉ is an application that generates the number of rooms, the number of people assigned, and the combination table so that members will never meet with the same person again, when you divide the participants into several rooms (groups) and have several breakout sessions.
+
+https://yoshikai.net/cowake/en
+
+## lina
+lina is a steganography program. It can hide a binary file or a text file into multiple png images. 
+
+https://github.com/TakutoYoshikai/lina
+
+## angie-sirius
+angie-sirius can be used as a powerful steganography program. 
+
+https://github.com/TakutoYoshikai/angie-sirius
+
+## sirius
+sirius is a data encoder/decoder
+
+https://github.com/TakutoYoshikai/sirius
+
+## parade
+parade is a data encoder/decoder using image file. 
+
+https://github.com/TakutoYoshikai/parade
 
 ## oreki
 Original API Endpoint Sales Kit with bitcoin and ethereum
