@@ -50,6 +50,11 @@ parade is a data encoder/decoder using image file.
 
 https://github.com/TakutoYoshikai/parade
 
+## gram-demolition
+gram-demolition is a program to kill processes that access to specific file.
+
+https://github.com/TakutoYoshikai/gram-demolition
+
 ## oreki
 Original API Endpoint Sales Kit with bitcoin and ethereum
 
