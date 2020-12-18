@@ -1,6 +1,6 @@
 # portfolio-github
 
-This is Takuto Yoshikai's portfolio of github only.
+This is Takuto Yoshikai's portfolio of Github.
 
 My official portfolio website is this↓
 
