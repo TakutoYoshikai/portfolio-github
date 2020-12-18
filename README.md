@@ -31,7 +31,7 @@ This repository is the web version of [phalanx](https://github.com/TakutoYoshika
 https://github.com/TakutoYoshikai/phalanx-web
 
 ## devise
-I implemented dummy password feature in devise.
+I implemented dummy password feature in [devise](https://github.com/heartcombo/devise).
 
 https://github.com/TakutoYoshikai/devise
 
