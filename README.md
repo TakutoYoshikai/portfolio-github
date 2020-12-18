@@ -84,7 +84,7 @@ Automation of my work
 (Private)
 
 ## ymir
-A simulation of titan on filesystem.
+alife simulation on filesystem.
 (Private)
 
 ## conan
@@ -97,7 +97,7 @@ A shorten-url program. Tor user can see different website.
 https://github.com/TakutoYoshikai/beautiful-heart
 
 ## godog
-A simulation of dog on filesystem.
+alife simulation on filesystem.
 (Private)
 
 ## el
