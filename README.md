@@ -21,6 +21,20 @@ lina is a steganography program. It can hide a binary file or a text file into m
 
 https://github.com/TakutoYoshikai/lina
 
+## phalanx
+phalanx is a password generator with any file.
+https://github.com/TakutoYoshikai/phalanx
+
+## phalanx-web
+This repository is the web version of [phalanx](https://github.com/TakutoYoshikai/phalanx).
+
+https://github.com/TakutoYoshikai/phalanx-web
+
+## devise
+I implemented dummy password feature in devise.
+
+https://github.com/TakutoYoshikai/devise
+
 ## angie-sirius
 angie-sirius can be used as a powerful steganography program. 
 
@@ -70,8 +84,7 @@ A simulation of titan on filesystem.
 
 ## conan
 A system to identify online anonymous people
-
-https://github.com/TakutoYoshikai/conan
+(Private)
 
 ## beautiful-heart
 A shorten-url program. Tor user can see different website.
@@ -80,8 +93,7 @@ https://github.com/TakutoYoshikai/beautiful-heart
 
 ## godog
 A simulation of dog on filesystem.
-
-https://github.com/TakutoYoshikai/godog
+(Private)
 
 ## el
 A program to observe oreki server
