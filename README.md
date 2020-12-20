@@ -55,6 +55,11 @@ gram-demolition is a program to kill processes that access to specific file.
 
 https://github.com/TakutoYoshikai/gram-demolition
 
+## mist-dispersion
+mist-dispersion is a disperser of any file data.
+
+https://github.com/TakutoYoshikai/mist-dispersion
+
 ## miki
 miki is a script for hiding secret data into microsoft office file. 
 
