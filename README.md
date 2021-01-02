@@ -65,6 +65,10 @@ miki is a script for hiding secret data into microsoft office file.
 
 https://github.com/TakutoYoshikai/miki
 
+## rc.js
+rc.js is a remote controller framework.
+https://github.com/TakutoYoshikai/rcjs
+
 ## oreki
 Original API Endpoint Sales Kit with bitcoin and ethereum
 
