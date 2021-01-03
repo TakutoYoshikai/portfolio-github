@@ -35,6 +35,11 @@ I implemented dummy password feature in [devise](https://github.com/heartcombo/d
 
 https://github.com/TakutoYoshikai/devise
 
+## elemental-sight
+This is an extractor of git repository. It can extract all file changed from all histories. 
+
+https://github.com/TakutoYoshikai/elemental-sight
+
 ## angie-sirius
 angie-sirius can be used as a powerful steganography program. 
 
