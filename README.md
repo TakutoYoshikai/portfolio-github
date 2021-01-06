@@ -40,6 +40,11 @@ This is an extractor of git repository. It can extract all file changed from all
 
 https://github.com/TakutoYoshikai/elemental-sight
 
+## shiba
+shiba is a finder of api token in git history.
+
+https://github.com/TakutoYoshikai/shiba
+
 ## angie-sirius
 angie-sirius can be used as a powerful steganography program. 
 
