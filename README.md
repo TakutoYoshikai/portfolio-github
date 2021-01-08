@@ -45,6 +45,11 @@ shiba is a finder of api token in git history.
 
 https://github.com/TakutoYoshikai/shiba
 
+## silver
+An install script of Takuto Yoshikai's hack tools.
+
+https://github.com/TakutoYoshikai/silver
+
 ## angie-sirius
 angie-sirius can be used as a powerful steganography program. 
 
