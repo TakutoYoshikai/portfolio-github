@@ -85,6 +85,11 @@ rc.js is a remote controller framework.
 
 https://github.com/TakutoYoshikai/rcjs
 
+## danger-alert
+This is a server side library to do any action when your devise disconnects from the Internet.
+
+https://github.com/TakutoYoshikai/danger-alert
+
 ## asciiart
 This is an ascii art generator.
 
