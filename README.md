@@ -1,8 +1,8 @@
 # portfolio-github
 
-This is Takuto Yoshikai's portfolio of Github.
+This is Takuto Yoshikai's advanced portfolio.
 
-My official portfolio website is this↓
+My Basic portfolio website is this↓
 
 https://yoshikai.net
 
