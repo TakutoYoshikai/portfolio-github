@@ -168,12 +168,8 @@ A RMT system simulation on kings' viking(comic)
 
 https://github.com/TakutoYoshikai/viking-challenge
 
-## portfolio(1, 2, 3)
+## portfolio
 My portfolio site
-
-https://github.com/TakutoYoshikai/portfolio
-
-https://github.com/TakutoYoshikai/portfolio-2
 
 https://github.com/TakutoYoshikai/portfolio-3
 
