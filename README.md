@@ -42,7 +42,8 @@ This is an extractor of git repository. It can extract all file changed from all
 https://github.com/TakutoYoshikai/elemental-sight
 
 ## shiba
-shiba is a finder of api token in git history.
+shiba is a finder of api token in git history. 
+You can use shiba as a safety checker when you make your repository public.
 
 https://github.com/TakutoYoshikai/shiba
 
@@ -111,20 +112,15 @@ A design template of Takuto Yoshikai's portfolio.
 
 https://github.com/TakutoYoshikai/portfolio-template
 
-## mybin
-Takuto's bin directory
-
-https://github.com/TakutoYoshikai/mybin
-
-## wifi-manager
-Takuto's original wifi manager on bash
-(Private)
-
 ## weasley
 Automation of my work
 (Private)
 
 ## ymir
+alife simulation on filesystem.
+(Private)
+
+## godog
 alife simulation on filesystem.
 (Private)
 
@@ -136,10 +132,6 @@ A system to identify online anonymous people
 A shorten-url program. Tor user can see different website.
 
 https://github.com/TakutoYoshikai/beautiful-heart
-
-## godog
-alife simulation on filesystem.
-(Private)
 
 ## el
 A program to observe oreki server
@@ -166,20 +158,10 @@ A twitter egosearching program
 
 https://github.com/TakutoYoshikai/lucius
 
-## pw-manager
-My password manager on bash
-
-https://github.com/TakutoYoshikai/pw-manager
-
 ## shorten-url
 A simple shorten url program
 
 https://github.com/TakutoYoshikai/shorten-url
-
-## mer**ri crawler
-A scraping bot on mer**ri
-
-(Private)
 
 ## viking-challenge
 A RMT system simulation on kings' viking(comic)
@@ -210,11 +192,6 @@ https://github.com/TakutoYoshikai/alife
 My work when I was a junior high school student.
 
 https://github.com/TakutoYoshikai/work-of-child
-
-## mayoi
-A program to convert sentence to wrong
-
-https://github.com/TakutoYoshikai/mayoi
 
 ## coa-bot
 A discord bot of code academy high school
