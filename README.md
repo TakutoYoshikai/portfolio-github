@@ -32,6 +32,7 @@ https://github.com/TakutoYoshikai/phalanx-web
 
 ## devise
 I implemented dummy password feature in [devise](https://github.com/heartcombo/devise).
+Your web service can run any action when dummy password is used.
 
 https://github.com/TakutoYoshikai/devise
 
