@@ -144,7 +144,7 @@ A chat UI generator
 https://github.com/TakutoYoshikai/chat-profile
 
 ## alive
-A observer of web servers.
+An observer of web servers.
 
 https://github.com/TakutoYoshikai/alive
 
