@@ -58,7 +58,7 @@ angie-sirius can be used as a powerful steganography program.
 https://github.com/TakutoYoshikai/angie-sirius
 
 ## sirius
-sirius is a data encoder/decoder
+sirius is a xor encryption program with any file.
 
 https://github.com/TakutoYoshikai/sirius
 
