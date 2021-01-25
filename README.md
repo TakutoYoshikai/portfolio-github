@@ -23,6 +23,7 @@ https://github.com/TakutoYoshikai/lina
 
 ## phalanx
 phalanx is a password generator with any file.
+
 https://github.com/TakutoYoshikai/phalanx
 
 ## phalanx-web
