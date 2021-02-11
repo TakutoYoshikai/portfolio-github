@@ -48,6 +48,11 @@ You can use shiba as a safety checker when you make your repository public.
 
 https://github.com/TakutoYoshikai/shiba
 
+## usbenc
+The encryptor by any USB device.
+
+https://github.com/TakutoYoshikai/usbenc
+
 ## silver
 An install script of Takuto Yoshikai's hack tools.
 
@@ -112,6 +117,16 @@ https://github.com/TakutoYoshikai/nats
 A design template of Takuto Yoshikai's portfolio.
 
 https://github.com/TakutoYoshikai/portfolio-template
+
+## poke
+The poke system on local network.
+
+https://github.com/TakutoYoshikai/poke-server
+
+## lan-chat
+The chat system on local network.
+
+https://github.com/TakutoYoshikai/lan-chat
 
 ## weasley
 Automation of my work
