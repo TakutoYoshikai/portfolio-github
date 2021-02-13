@@ -2,7 +2,7 @@
 
 This is Takuto Yoshikai's advanced portfolio.
 
-My Basic portfolio website is this↓
+My basic portfolio website is this↓
 
 https://yoshikai.net
 
