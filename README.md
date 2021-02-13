@@ -89,7 +89,7 @@ miki is a script for hiding secret data into microsoft office file.
 https://github.com/TakutoYoshikai/miki
 
 ## onmem
-onmem is data storage on memory. You should think it as a clipboard.
+onmem is a data storage on memory. You should think it as a clipboard.
 
 https://github.com/TakutoYoshikai/onmem
 
