@@ -53,6 +53,12 @@ The encryptor by any USB device.
 
 https://github.com/TakutoYoshikai/usbenc
 
+## usbkey
+usbkey is an shell command executer by specific USB device.
+
+https://github.com/TakutoYoshikai/usbenc
+
+
 ## silver
 An install script of Takuto Yoshikai's hack tools.
 
