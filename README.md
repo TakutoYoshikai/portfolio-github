@@ -54,7 +54,7 @@ The encryptor by any USB device.
 https://github.com/TakutoYoshikai/usbenc
 
 ## usbkey
-usbkey is an shell command executer by specific USB device.
+usbkey is an event runner by specific USB device.
 
 https://github.com/TakutoYoshikai/usbenc
 
