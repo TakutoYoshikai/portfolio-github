@@ -79,6 +79,11 @@ This is a node.js library to fetch data from scrapbox.
 
 https://github.com/TakutoYoshikai/scrapbox-api
 
+## yoshikai-api
+This is a library to fetch Takuto Yoshikai's portfolio data. 
+
+https://github.com/TakutoYoshikai/yoshikai-api
+
 ## sirius
 sirius is a xor encryption program with any file.
 
