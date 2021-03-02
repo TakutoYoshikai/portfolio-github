@@ -75,7 +75,7 @@ angie-sirius can be used as a powerful steganography program.
 https://github.com/TakutoYoshikai/angie-sirius
 
 ## scrapbox-api
-This is a node.js library to fetch data from scrapbox.
+This is a Node.js library to fetch data from scrapbox.
 
 https://github.com/TakutoYoshikai/scrapbox-api
 
