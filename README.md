@@ -154,6 +154,11 @@ The chat system on local network.
 
 https://github.com/TakutoYoshikai/lan-chat
 
+## bg-slideshow
+This is a program to change desktop picture at a certain interval.
+
+https://github.com/TakutoYoshikai/bg-slideshow
+
 ## weasley
 Automation of my work
 (Private)
