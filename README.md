@@ -186,7 +186,7 @@ A program to observe oreki server
 https://github.com/TakutoYoshikai/el
 
 ## chat-profile
-A chat UI generator
+A chat conversation generator.
 
 https://github.com/TakutoYoshikai/chat-profile
 
