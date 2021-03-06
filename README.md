@@ -159,6 +159,11 @@ This is a program to change desktop picture at a certain interval.
 
 https://github.com/TakutoYoshikai/bg-slideshow
 
+## fake-build
+The fake building animation on terminal application. 
+
+https://github.com/TakutoYoshikai/fake-build
+
 ## weasley
 Automation of my work
 (Private)
