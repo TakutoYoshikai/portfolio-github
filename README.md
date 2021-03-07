@@ -164,6 +164,11 @@ The fake building animation on terminal application.
 
 https://github.com/TakutoYoshikai/fake-build
 
+## fake-build-blockchain
+The fake building animation of blockchain projects. 
+
+https://github.com/TakutoYoshikai/fake-build-blockchain
+
 ## weasley
 Automation of my work
 (Private)
