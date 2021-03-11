@@ -70,7 +70,7 @@ An install script of Takuto Yoshikai's hack tools.
 https://github.com/TakutoYoshikai/silver
 
 ## skills
-This is a template of summary of creator's skills. It shows periods of the skills.
+This is a template of programmer's skill list. It can show periods of skills. 
 
 https://github.com/TakutoYoshikai/skills
 
