@@ -69,6 +69,11 @@ An install script of Takuto Yoshikai's hack tools.
 
 https://github.com/TakutoYoshikai/silver
 
+## skills
+This is a template of summary of creator's skills. It shows periods of the skills.
+
+https://github.com/TakutoYoshikai/skills
+
 ## angie-sirius
 angie-sirius can be used as a powerful steganography program. 
 
