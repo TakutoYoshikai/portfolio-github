@@ -134,6 +134,11 @@ This is an ascii art generator.
 
 https://github.com/TakutoYoshikai/asciiart
 
+## adhd-timer
+This is a timer library for ADHD people. Specific processes are killed when the timer notices.
+
+https://github.com/TakutoYoshikai/adhd-timer
+
 ## oreki
 Original API Endpoint Sales Kit with bitcoin and ethereum
 
