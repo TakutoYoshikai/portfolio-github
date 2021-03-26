@@ -134,6 +134,11 @@ This is an ascii art generator.
 
 https://github.com/TakutoYoshikai/asciiart
 
+## random-path
+This is a node package to generate path to directory randomly.
+
+https://github.com/TakutoYoshikai/random-path
+
 ## adhd-timer
 This is a timer library for ADHD people. Specific processes are killed when the timer notices.
 
