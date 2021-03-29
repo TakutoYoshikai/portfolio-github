@@ -159,6 +159,10 @@ A design template of Takuto Yoshikai's portfolio.
 
 https://github.com/TakutoYoshikai/portfolio-template
 
+## business card generator
+
+https://github.com/TakutoYoshikai/bc-generator
+
 ## poke
 The poke system on local network.
 
