@@ -99,6 +99,16 @@ parade is a data encoder/decoder using image file.
 
 https://github.com/TakutoYoshikai/parade
 
+## lsof.js
+This is a wrapper of lsof in Linux.
+
+https://github.com/TakutoYoshikai/lsof.js
+
+## konami-command
+This is a bower package to register callback of konami command. 
+
+https://github.com/TakutoYoshikai/konami-command
+
 ## gram-demolition
 gram-demolition is a program to kill processes that access to specific file.
 
