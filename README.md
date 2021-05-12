@@ -58,11 +58,15 @@ usbkey is an event runner by specific USB device.
 
 https://github.com/TakutoYoshikai/usbenc
 
-
 ## usb-lock
 usb-lock is an event runner for encryption by specific USB device.
 
 https://github.com/TakutoYoshikai/usb-lock
+
+## capsule
+This is a program for manage private keys safely. 
+
+https://github.com/TakutoYoshikai/capsule
 
 ## silver
 An install script of Takuto Yoshikai's hack tools.
