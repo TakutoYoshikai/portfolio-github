@@ -48,6 +48,11 @@ You can use shiba as a safety checker when you make your repository public.
 
 https://github.com/TakutoYoshikai/shiba
 
+## crauns
+crauns is a tool to prove that the person is a member of the same group by scanning thumbnail icon. It uses RSA private key and public key to sign.
+
+https://github.com/TakutoYoshikai/crauns
+
 ## usbenc
 The encryptor by any USB device.
 
