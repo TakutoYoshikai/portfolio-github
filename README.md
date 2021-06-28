@@ -243,6 +243,11 @@ A chat conversation generator.
 
 https://github.com/TakutoYoshikai/chat-profile
 
+## observe-work
+This is a tool for ovservation employee's work. It reports key typing count to the server.
+
+https://github.com/TakutoYoshikai/observe-work
+
 ## alive
 An observer of web servers.
 
