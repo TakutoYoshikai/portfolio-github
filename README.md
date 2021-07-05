@@ -173,6 +173,11 @@ A program to hide file into executable binary
 
 https://github.com/TakutoYoshikai/nats
 
+## spider.rs
+spider is a rust library to upload encrypted file on IPFS network, and sharing the IPFS hash as a message on IOTA. It is a tool for sharing file on P2P network only. Do NOT abuse. 
+
+https://github.com/TakutoYoshikai/spider.rs
+
 ## portfolio-template
 A design template of Takuto Yoshikai's portfolio.
 
